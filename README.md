@@ -1,4 +1,9 @@
 # Operation-Systems
 
-Данный репозиторий посвящен выполнению лабораторных работ по учебному предмету "Операционные Системы". В соответствующих папках реализованы решения лабораторных работ. 
+## Overview
 
+This repository contains solutions for Opeating Systems Course.
+
+## Usage
+
+Author: Artyom Shpakovski
